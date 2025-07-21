@@ -7,23 +7,35 @@
 ---
 
 ## 📌 About Me
+💻 I'm a passionate Full Stack Developer and UI/UX Designer who loves crafting sleek, responsive web apps that feel as good as they look. I combine design thinking with clean, efficient code to deliver seamless, user-first digital experiences.
+✨ I'm confident in frontend development, experienced in backend, and currently focusing on mastering Java to strengthen my programming and backend skills.
 
-- 🎓 Prefinal-year Computer Science student  
-- 💡 I love solving real-world problems through code  
-- 🔭 Currently exploring frontend, backend technologies, and system design  
-- 🧠 Improving my DSA skills daily  
+
 
 ---
 
 ## 🛠️ Skills
+👩‍💻 Languages:
+Java, Python, C
 
-👩‍💻**Languages:** Java, Python, C  
-👩‍💻**Frontend:** HTML, CSS, JavaScript, React.js  
-👩‍💻**Backend:** Node.js, Express.js, PHP  
-👩‍💻**Database:** MySQL, MongoDB  
-👩‍💻**Tools & Platforms:** Git, GitHub, VS Code, Postman  
-👩‍💻**UI/UX:** Figma, Canva  
-👩‍💻**Frontend Hosting Platforms:** Vercel, InfinityFree  
+🎨 Frontend:
+HTML, CSS, JavaScript, React.js
+
+🖥️ Backend:
+Node.js, Express.js, PHP
+
+🗄️ Database:
+MySQL, MongoDB
+
+⚙️ Tools & Platforms:
+Git, GitHub, VS Code, Postman
+
+🧠 UI/UX Design:
+Figma, Canva
+
+🌐 Frontend Hosting Platforms:
+Vercel, InfinityFree
+
 
 ---
 
