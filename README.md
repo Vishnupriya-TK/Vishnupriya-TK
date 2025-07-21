@@ -58,10 +58,10 @@
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://www.linkedin.com/in/vishnu-priya-t-k-334288308/)  
+[![LinkedIn] (https://www.linkedin.com/in/vishnu-priya-t-k-334288308/)  
 📧 **Email:** tkvishnupriyacse@gmail.com  
 [![Github] (https://github.com/Vishnupriya-TK)
-[![LeetCode](https://leetcode.com/u/VISHNUPRIYA-TK/)
+[![LeetCode] (https://leetcode.com/u/VISHNUPRIYA-TK/)
 ---
 
 ## 🧠 Currently Learning
