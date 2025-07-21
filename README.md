@@ -17,13 +17,13 @@
 
 ## 🛠️ Skills
 
-**Languages:** Java, Python, C  
-**Frontend:** HTML, CSS, JavaScript, React.js  
-**Backend:** Node.js, Express.js, PHP  
-**Database:** MySQL, MongoDB  
-**Tools & Platforms:** Git, GitHub, VS Code, Postman  
-**UI/UX:** Figma, Canva  
-**Frontend Hosting Platforms:** Vercel, InfinityFree  
+👩‍💻**Languages:** Java, Python, C  
+👩‍💻**Frontend:** HTML, CSS, JavaScript, React.js  
+👩‍💻**Backend:** Node.js, Express.js, PHP  
+👩‍💻**Database:** MySQL, MongoDB  
+👩‍💻**Tools & Platforms:** Git, GitHub, VS Code, Postman  
+👩‍💻**UI/UX:** Figma, Canva  
+👩‍💻**Frontend Hosting Platforms:** Vercel, InfinityFree  
 
 ---
 
@@ -85,4 +85,5 @@
 
 > _"Design. Build. Deliver."_  
 > *– A developer who crafts solutions with code and creativity.*
+---
 > In a world full of bugs, be the one who debugs and delivers
