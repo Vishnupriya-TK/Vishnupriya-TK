@@ -57,12 +57,22 @@
 ---
 
 ## 🌐 Connect With Me
-**LinkedIn** (https://www.linkedin.com/in/vishnu-priya-t-k-334288308/)
-[![LinkedIn] (https://www.linkedin.com/in/vishnu-priya-t-k-334288308/)  
-📧 **Email:** tkvishnupriyacse@gmail.com  
-[![Github] (https://github.com/Vishnupriya-TK)
-[![LeetCode] (https://leetcode.com/u/VISHNUPRIYA-TK/)
----
+
+<p align="left">
+  <a href="https://leetcode.com/u/VISHNUPRIYA-TK/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white" alt="LeetCode" height="20"/>
+  </a>
+  <a href="https://www.linkedin.com/in/vishnu-priya-t-k-334288308/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" height="20"/>
+  </a>
+  <a href="https://github.com/Vishnupriya-TK" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" height="20"/>
+  </a>
+  <a href="mailto:tkvishnupriyacse@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" height="20"/>
+  </a>
+</p>
+
 
 ## 🧠 Currently Learning
 
@@ -75,3 +85,4 @@
 
 > _"Design. Build. Deliver."_  
 > *– A developer who crafts solutions with code and creativity.*
+> In a world full of bugs, be the one who debugs and delivers
