@@ -1,62 +1,60 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&size=32&duration=4000&pause=1000&color=F70776&center=true&vCenter=true&width=600&lines=👋+Hi+there%2C+I'm+Vishnu+Priya+T+K;🚀+Aspiring+Full-Stack+Developer;🎓+Prefinal-Year+B.E+(CSE)+Student;📍+Velammal+College+of+Engineering+and+Technology+(VCET)" alt="Typing Animation" />
-</h1>
+<h1 align="center">👋 Hi, I'm Vishnu Priya T K</h1>
 
-
-🚀 **Aspiring Full-Stack Developer** | **Java Enthusiast** | **UI/UX Designer**  
-🎓 Prefinal-Year B.E (CSE) Student  
-💡 Passionate about building user-centric applications  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F70776&center=true&vCenter=true&width=600&lines=🚀+Aspiring+Full-Stack+Developer;☕+Java+Enthusiast;🎨+UI%2FUX+Designer;🎓+Prefinal-Year+B.E+(CSE)+Student" alt="Typing Animation" />
+</p>
 
 ---
 
 ## 📌 About Me  
 💻 I’m a passionate **Full Stack Developer** and **UI/UX Designer** who loves crafting sleek, responsive web apps that feel as good as they look.  
-✨ I combine **design thinking** with **clean, efficient code** to deliver seamless, user-first digital experiences.  
-🖥️ Strong in **frontend development**, experienced in **backend**, and currently sharpening my **Java skills** to strengthen backend expertise.  
+✨ I combine design thinking with clean, efficient code to deliver seamless, user-first digital experiences.  
+🎓 **Prefinal-Year B.E (CSE) Student** at **VCET**  
+🖥️ Strong in frontend development, experienced in backend, and currently sharpening my **Java skills** to strengthen backend expertise.  
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Skills  
 
 ### 💻 Languages  
 <p align="left"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" height="48" title="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" height="48" title="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" title="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" title="JavaScript"/>
 </p>
 
 ### 🎨 Frontend  
 <p align="left"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="48" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" title="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" title="React.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="48" height="48" title="Tailwind CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="48" height="48" title="Figma"/>
 </p>
 
 ### 🖥️ Backend  
 <p align="left"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="48" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" title="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" height="48" title="Express.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="48" height="48" title="Flask"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="48" height="48" title="PHP"/>
 </p>
 
 ### 🗄️ Databases  
 <p align="left"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" title="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" title="MySQL"/>
 </p>
 
 ### ⚙️ Tools  
 <p align="left"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="48" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" title="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" title="VS Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="48" height="48" title="Postman"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="48" height="48" title="Canva"/>
 </p>
 
 ---
@@ -107,7 +105,7 @@
 ---
 ## 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="https://leetcode.com/u/VISHNUPRIYA-TK/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white" alt="LeetCode" height="20"/>
   </a>
@@ -147,7 +145,4 @@
 ---
 
 ## 🙏 Thank You
-Thanks for visiting my profile!  
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80px">
-</p>
+Thanks for visiting my profile! Have a great day 🚀  
