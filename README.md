@@ -67,18 +67,31 @@ Vercel, InfinityFree
   🔗 Hosted on: [contact-list-management-system.vercel.app](https://vercel.com/vishnu-priya-t-ks-projects/contact-list-management-system/AjUFDK5Qr8CFEHNMGzbw4tpfeyxA)
 
 ---
-
-## 🚀 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vishnupriya-TK&show_icons=true&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vishnupriya-TK&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishnupriya-TK&layout=compact&theme=radical)
+# Hi 👋, I'm Vishnu Priya T K  
 
 ---
 
-## 🏆 LeetCode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/VISHNUPRIYA-TK?theme=dark&font=Karma&ext=heatmap)
+## 📊 GitHub Stats  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vishnupriya-TK&show_icons=true&theme=radical)  
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vishnupriya-TK&theme=radical)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishnupriya-TK&layout=compact&theme=radical)  
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vishnupriya-TK&theme=react-dark)  
+
+---
+
+## 🏆 LeetCode Stats  
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/VISHNUPRIYA-TK?theme=dark&ext=heatmap)  
+
+---
+
+## 🎯 GeeksforGeeks Stats  
+
+![GFG Stats](https://gfg-stats-card.vercel.app/?user=tkvishnup78ds)  
 
 ---
 
