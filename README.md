@@ -75,6 +75,8 @@
 
   🔗 Hosted on: [ai-assistant-chatbot.vercel.app](https://ai-assistant-lyart-eta.vercel.app/)
 
+---
+
 - 🔖 **[ToDo App](https://github.com/Vishnupriya-TK/ToDo---App.git)**  
   A user-friendly, theme-enabled task manager built using Vanilla JavaScript, HTML, and CSS.  
   It supports login/register, task categorization by due date, dark mode, and persistent local storage – all packed in a beautiful UI.  
@@ -101,6 +103,7 @@
   🔗 Hosted on: [contact-list-management-system.vercel.app](https://vercel.com/vishnu-priya-t-ks-projects/contact-list-management-system/AjUFDK5Qr8CFEHNMGzbw4tpfeyxA)
 
 ---
+
 - 🧮 **[Web Calculator](https://vishnupriya-tk.github.io/Calculator/)**  
   This is a **web-based calculator** built using **HTML, CSS, and JavaScript**.  
   ➕ Supports basic arithmetic operations, parentheses, and decimal numbers.  
@@ -108,12 +111,15 @@
   📱 Works seamlessly on both **desktop and mobile devices**.  
   🔗 Hosted on: [web-calculator.vercel.app](https://calculator-omega-ten-83.vercel.app/)
 
+---
 
 ## 📊 GitHub Stats  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vishnupriya-TK&show_icons=true&theme=radical)    
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishnupriya-TK&layout=compact&theme=radical)  
+
+---
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vishnupriya-TK&theme=react-dark)  
 
@@ -124,6 +130,7 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/VISHNUPRIYA-TK?theme=dark&ext=heatmap)  
 
 ---
+
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -148,6 +155,7 @@
 
 </p>
 
+---
 
 ## 🧠 Currently Learning
 
