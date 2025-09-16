@@ -68,6 +68,24 @@ Vercel, InfinityFree
 
 ---
 
+## 🚀 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vishnupriya-TK&show_icons=true&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vishnupriya-TK&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishnupriya-TK&layout=compact&theme=radical)
+
+---
+
+## 🏆 LeetCode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/VISHNUPRIYA-TK?theme=dark&font=Karma&ext=heatmap)
+
+---
+
+## 📊 Contribution Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vishnupriya-TK&theme=react-dark)
+
+---
 ## 🌐 Connect With Me
 
 <p align="left">
