@@ -1,4 +1,7 @@
-# 👋 Hi there, I'm Vishnu Priya T K  
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&size=32&duration=4000&pause=1000&color=F70776&center=true&vCenter=true&width=600&lines=👋+Hi+there%2C+I'm+Vishnu+Priya+T+K;🚀+Aspiring+Full-Stack+Developer;🎓+Prefinal-Year+B.E+(CSE)+Student;📍+Velammal+College+of+Engineering+and+Technology+(VCET)" alt="Typing Animation" />
+</h1>
+
 
 🚀 **Aspiring Full-Stack Developer** | **Java Enthusiast** | **UI/UX Designer**  
 🎓 Prefinal-Year B.E (CSE) Student  
