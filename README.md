@@ -59,13 +59,21 @@
 
 ---
 
-## 🙏 Thank You  
-Thanks for visiting my profile! Have a great day 🚀  
-
-
----
-
 ## 🚀 Projects
+
+- 🤖 **[AI Assistant Chatbot](https://vishnupriya-tk.github.io/AI_Assistant/)**  
+  A **React + Vite** chatbot UI that connects with an API service to simulate an **AI assistant**.  
+  It supports conversation tracking, auto-scrolls to the latest message, and shows a typing indicator while waiting for responses.  
+
+  🚀 **Features**  
+  - ⚡ Built with **React + Vite**  
+  - 💬 User & bot message bubbles  
+  - 🤖 AI Assistant welcome message  
+  - ⏳ Typing indicator for bot replies  
+  - 📜 Auto-scroll to the latest message  
+  - 🔄 Conversation history tracking  
+
+  🔗 Hosted on: [ai-assistant-chatbot.vercel.app](https://ai-assistant-lyart-eta.vercel.app/)
 
 - 🔖 **[ToDo App](https://github.com/Vishnupriya-TK/ToDo---App.git)**  
   A user-friendly, theme-enabled task manager built using Vanilla JavaScript, HTML, and CSS.  
@@ -93,6 +101,13 @@ Thanks for visiting my profile! Have a great day 🚀
   🔗 Hosted on: [contact-list-management-system.vercel.app](https://vercel.com/vishnu-priya-t-ks-projects/contact-list-management-system/AjUFDK5Qr8CFEHNMGzbw4tpfeyxA)
 
 ---
+- 🧮 **[Web Calculator](https://vishnupriya-tk.github.io/Calculator/)**  
+  This is a **web-based calculator** built using **HTML, CSS, and JavaScript**.  
+  ➕ Supports basic arithmetic operations, parentheses, and decimal numbers.  
+  🎨 Features a **professional UI** with *glassmorphism, gradients, and hover effects*.  
+  📱 Works seamlessly on both **desktop and mobile devices**.  
+  🔗 Hosted on: [web-calculator.vercel.app](https://calculator-omega-ten-83.vercel.app/)
+
 
 ## 📊 GitHub Stats  
 
