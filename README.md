@@ -159,9 +159,8 @@
 
 ## 🧠 Currently Learning
 
-- Advanced Data Structures and Algorithms  
-- Currently exploring frontend, backend technologies, and system design
-
+- Advanced Data Structures and Algorithms
+  
 ---
 
 ## ✨ Quote
@@ -173,5 +172,7 @@
 
 ---
 
-## 🙏 Thank You
-Thanks for visiting my profile! Have a great day 🚀  
+
+🙏 Thank you for visiting — "Keep your face toward the sunshine, and shadows will fall behind you." 🌟
+
+ Have a great day 🚀  
