@@ -83,12 +83,6 @@ Vercel, InfinityFree
 ![LeetCode Stats](https://leetcard.jacoblin.cool/VISHNUPRIYA-TK?theme=dark&ext=heatmap)  
 
 ---
-
-## 🎯 GeeksforGeeks Stats  
-
-![GFG Stats](https://gfg-stats-card.vercel.app/?user=tkvishnup78ds)  
-
----
 ## 🌐 Connect With Me
 
 <p align="left">
@@ -104,6 +98,13 @@ Vercel, InfinityFree
   <a href="mailto:tkvishnupriyacse@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" height="20"/>
   </a>
+  <a href="https://www.hackerrank.com/tkvishnupriyacse" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank" height="20"/>
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/tkvishnup78ds/practice/" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=GeeksforGeeks&logoColor=white" alt="HackerRank" height="20"/>
+  </a>
+
 </p>
 
 
@@ -120,3 +121,11 @@ Vercel, InfinityFree
 > *– A developer who crafts solutions with code and creativity.*
 ---
 > In a world full of bugs, be the one who debugs and delivers
+
+---
+
+## 🙏 Thank You
+Thanks for visiting my profile!  
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80px">
+</p>
