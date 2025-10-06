@@ -1,8 +1,8 @@
 <h1 align="center">👋 Hi, I'm Vishnu Priya T K</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F70776&center=true&vCenter=true&width=600&lines=🚀+Aspiring+Full-Stack+Developer;🚀+MERN Stack Developer;☕+Java+Enthusiast;🎨+UI%2FUX+Designer;🎓+Prefinal-Year+B.E+(CSE)+Student" alt="Typing Animation" />
-</p>
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=0F172A&center=true&vCenter=true&width=600&lines=Aspiring+Full-Stack+Developer;MERN+Stack+Developer;Java+Enthusiast;UI%2FUX+Designer;Pre-final+Year+B.E.+(CSE)+Student" alt="Typing Animation" />
+
 
 ---
 
