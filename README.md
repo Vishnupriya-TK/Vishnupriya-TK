@@ -60,57 +60,9 @@
 
 ## 🚀 Projects
 
-- 🤖 **[AI Assistant Chatbot](https://vishnupriya-tk.github.io/AI_Assistant/)**  
-  A **React + Vite** chatbot UI that connects with an API service to simulate an **AI assistant**.  
-  It supports conversation tracking, auto-scrolls to the latest message, and shows a typing indicator while waiting for responses.  
-
-  🚀 **Features**  
-  - ⚡ Built with **React + Vite**  
-  - 💬 User & bot message bubbles  
-  - 🤖 AI Assistant welcome message  
-  - ⏳ Typing indicator for bot replies  
-  - 📜 Auto-scroll to the latest message  
-  - 🔄 Conversation history tracking  
-
-  🔗 Hosted on: [ai-assistant-chatbot.vercel.app](https://ai-assistant-lyart-eta.vercel.app/)
-
----
-
-- 🔖 **[ToDo App](https://github.com/Vishnupriya-TK/ToDo---App.git)**  
-  A user-friendly, theme-enabled task manager built using Vanilla JavaScript, HTML, and CSS.  
-  It supports login/register, task categorization by due date, dark mode, and persistent local storage – all packed in a beautiful UI.  
-  🔗 Hosted on: [to-do-app-seven-rose.vercel.app](https://to-do-app-seven-rose.vercel.app)
-
----
-
-- ❓ **[Quiz Quest](https://github.com/Vishnupriya-TK/quizapp.git)**  
-  Interactive quiz application with timer, scoring, and result analysis.  
-  🔗 Hosted on: [quizapp-chi-six.vercel.app](https://quizapp-chi-six.vercel.app)
-
----
-
-- 🎓 **[Student Placement Tracker](https://github.com/Vishnupriya-TK/Student-Placement-Tracker.git)**  
-  A lightweight, offline-friendly placement tracker built with HTML, CSS, and JavaScript.  
-  Easily import student data, track placement status, generate summary messages, and export updated results — all stored securely in your browser using `localStorage`.  
-  🔗 Hosted on: [student-placement-tracker.vercel.app](https://student-placement-tracker-git-main-vishnu-priya-t-ks-projects.vercel.app)
-
----
-
-- 📇 **[Contact List Management System](https://github.com/Vishnupriya-TK/Contact-List-Management-System.git)**  
-  A simple, responsive web app to manage your contacts using HTML, CSS, and JavaScript.  
-  Add, search, delete, or reset contacts easily — all stored in your browser with `localStorage`, so your data stays even after refresh.  
-  🔗 Hosted on: [contact-list-management-system.vercel.app](https://vercel.com/vishnu-priya-t-ks-projects/contact-list-management-system/AjUFDK5Qr8CFEHNMGzbw4tpfeyxA)
-
----
-
-- 🧮 **[Web Calculator](https://vishnupriya-tk.github.io/Calculator/)**  
-  This is a **web-based calculator** built using **HTML, CSS, and JavaScript**.  
-  ➕ Supports basic arithmetic operations, parentheses, and decimal numbers.  
-  🎨 Features a **professional UI** with *glassmorphism, gradients, and hover effects*.  
-  📱 Works seamlessly on both **desktop and mobile devices**.  
-  🔗 Hosted on: [web-calculator.vercel.app](https://calculator-omega-ten-83.vercel.app/)
-
----
+-  **[AI Assistant Chatbot](https://vishnupriya-tk.github.io/AI_Assistant/)**  
+  
+  
 
 ## 📊 GitHub Stats  
 
