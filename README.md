@@ -60,9 +60,23 @@
 
 ## 🚀 Projects
 
--  **[AI Assistant Chatbot](https://vishnupriya-tk.github.io/AI_Assistant/)**  
-  
-  
+E-Certificate Generator
+-  **[E-Certificate Genereator](https://ecertificate-generator-frontend.onrender.com/)**
+
+BrainBattle
+-  **[BrainBattle](https://brainbattle-nb8x.onrender.com/)**
+
+Student Placement Tracker
+-  **[Student Placement Tracker](https://student-placement-tracker.vercel.app/)**
+
+WhatsApp Clone
+-  **[WhatsApp Clone](https://www.figma.com/design/WyxQKyAGgNdUL7zFHaxI3Q/WhatsApp-Clone?node-id=0-1&t=hpQi1tsj8n5s4Eys-1)**
+
+Course Advisor Chatbot (Zoho SalesIQ) – Zoho Cliqtrix ’26
+-  **[Course Advisor Chatbot (Zoho SalesIQ) – Zoho Cliqtrix ’26](https://courseadvisor.zohosites.com/)**
+
+Quiz App
+-  **[Quiz App](https://quizapp-chi-six.vercel.app/)**
 
 ## 📊 GitHub Stats  
 
