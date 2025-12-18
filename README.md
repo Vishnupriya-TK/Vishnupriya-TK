@@ -64,7 +64,7 @@ E-Certificate Generator
 BrainBattle
 -  **[BrainBattle](https://brainbattle-nb8x.onrender.com/)**
 
-Student Placement Tracker
+Placement Information Hub
 -  **[Placement Information Hub](https://placement-information-hub.vercel.app)**
 
 WhatsApp Clone
