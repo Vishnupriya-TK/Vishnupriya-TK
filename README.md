@@ -65,7 +65,7 @@ BrainBattle
 -  **[BrainBattle](https://brainbattle-nb8x.onrender.com/)**
 
 Student Placement Tracker
--  **[Student Placement Tracker](https://student-placement-tracker.vercel.app/)**
+-  **[Placement Information Hub](https://placement-information-hub.vercel.app)**
 
 WhatsApp Clone
 -  **[WhatsApp Clone](https://www.figma.com/design/WyxQKyAGgNdUL7zFHaxI3Q/WhatsApp-Clone?node-id=0-1&t=hpQi1tsj8n5s4Eys-1)**
