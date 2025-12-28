@@ -58,26 +58,26 @@
 
 ## 🚀 Projects
 
-E-Certificate Generator
--  **[E-Certificate Genereator](https://ecertificate-generator-frontend.onrender.com/)**
+E-Certificate Generator - A web-based application that automates certificate creation by generating personalized e-certificates from user data, reducing manual effort and ensuring consistency.
+-  **[Visit Here](https://ecertificate-generator-frontend.onrender.com/)**
 
-BrainBattle
--  **[BrainBattle](https://brainbattle-nb8x.onrender.com/)**
+BrainBattle - An interactive quiz-based platform designed to challenge users’ logical thinking and knowledge through engaging questions and real-time score tracking.
+-  **[Visit Here](https://brainbattle-nb8x.onrender.com/)**
 
-TaskFlow
--  **[TaskFlow](https://task-flow-jj39.onrender.com/)**
+TaskFlow - A productivity-focused task management application that helps users organize, track, and manage tasks efficiently with a clean and user-friendly interface.
+-  **[Visit Here](https://task-flow-jj39.onrender.com/)**
 
-Placement Information Hub
--  **[Placement Information Hub](https://placement-information-hub.vercel.app)**
+Placement Information Hub - A lightweight, offline-friendly placement tracker built with HTML, CSS, and JavaScript. Easily import student data, track placement status, generate summary messages, and export updated results — all stored securely in your browser using localStorage.
+-  **[Visit Here](https://placement-information-hub.vercel.app)**
 
-WhatsApp Clone
--  **[WhatsApp Clone](https://www.figma.com/design/WyxQKyAGgNdUL7zFHaxI3Q/WhatsApp-Clone?node-id=0-1&t=hpQi1tsj8n5s4Eys-1)**
+WhatsApp Clone - A UI/UX-focused clone of WhatsApp designed in Figma, showcasing modern chat interface design, user flows, and real-time messaging layout concepts.
+-  **[Visit Here](https://www.figma.com/design/WyxQKyAGgNdUL7zFHaxI3Q/WhatsApp-Clone?node-id=0-1&t=hpQi1tsj8n5s4Eys-1)**
 
-Course Advisor Chatbot (Zoho SalesIQ) – Zoho Cliqtrix ’26
--  **[Course Advisor Chatbot (Zoho SalesIQ) – Zoho Cliqtrix ’26](https://courseadvisor.zohosites.com/)**
+Course Advisor Chatbot (Zoho SalesIQ) – Zoho Cliqtrix ’26 - This project is an interactive Course Advisor Chatbot built using Zoho SalesIQ’s Codeless Bot Builder, integrated with a custom HTML/CSS/JavaScript website and a Zoho Form embedded for collecting student applications. The chatbot acts not only as a course navigation tool but also as a form guidance assistant — helping users understand what to fill in each section before opening the Zoho Form.
+-  **[Visit Here](https://courseadvisor.zohosites.com/)**
 
-Quiz App
--  **[Quiz App](https://quizapp-chi-six.vercel.app/)**
+Quiz App - Quiz Quest is a fun and interactive web-based quiz app that tests your knowledge of HTML, CSS, and JavaScript. It includes a welcome screen, a multiple-choice quiz interface, and a final score page — all built using pure HTML, CSS, and JavaScript, with no frameworks or backend required.
+-  **[Visit Here](https://quizapp-chi-six.vercel.app/)**
 
 ## 📊 GitHub Stats  
 
