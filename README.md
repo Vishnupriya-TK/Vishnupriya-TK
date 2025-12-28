@@ -1,144 +1,133 @@
 <h1 align="center">👋 Hi, I'm Vishnu Priya T K</h1>
 
 <p align="center">
- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F70776&center=true&vCenter=true&width=600&lines=🚀+Aspiring+Full-Stack+Developer;MERN+Stack+Developer;☕+Java+Enthusiast;🎨+UI%2FUX+Designer;Pre-final+Year+B.E.+(CSE)+Student" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F70776&center=true&vCenter=true&width=600&lines=🚀+Aspiring+Full-Stack+Developer;MERN+Stack+Developer;☕+Java+Enthusiast;🎨+UI%2FUX+Designer;Pre-final+Year+B.E.+(CSE)+Student" alt="Typing Animation" />
 </p>
 
 ---
 
-## 📌 About Me  
-💻 I’m a passionate **Full Stack Developer** and **UI/UX Designer** who loves crafting sleek, responsive web apps that feel as good as they look.  
-✨ I combine design thinking with clean, efficient code to deliver seamless, user-first digital experiences.  
-🎓 **Prefinal-Year B.E (CSE) Student** at **VCET**  
-🖥️ Strong in frontend development, experienced in backend, and currently sharpening my **Java skills** to strengthen backend expertise.  
+## 📌 About Me
+
+💻 Passionate **Full Stack Developer** and **UI/UX Designer** who enjoys building sleek, responsive, and user-centric web applications.  
+✨ I blend design thinking with clean, efficient code to create seamless digital experiences.  
+🎓 **Pre-final Year B.E (CSE) Student** at **Velammal College of Engineering and Technology (VCET)**  
+🖥️ Strong in frontend development, experienced in backend, and actively strengthening **Java** for backend mastery.
 
 ---
 
-## 🛠️ Skills  
+## 🛠️ Skills
 
-### 💻 Languages  
-<p align="center" class="bg-gray-200 p-4 rounded">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" title="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" height="48" title="C"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" title="JavaScript"/>
+### 💻 Programming Languages
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" title="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" title="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" title="JavaScript"/>
 </p>
 
-### 🎨 Frontend  
-<p align="center" class="bg-gray-200 p-4 rounded">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" title="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" title="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" title="React.js"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="48" height="48" title="Tailwind CSS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="48" height="48" title="Figma"/>
+### 🎨 Frontend
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" title="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" title="React.js"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="45" title="Tailwind CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" title="Figma"/>
 </p>
 
-### 🖥️ Backend  
-<p align="center" class="bg-gray-200 p-4 rounded">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" title="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" height="48" title="Express.js"/>
+### 🖥️ Backend
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" title="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45" title="Express.js"/>
 </p>
 
-### 🗄️ Databases  
-<p align="center" class="bg-gray-200 p-4 rounded">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" title="MongoDB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" title="MySQL"/>
+### 🗄️ Databases
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" title="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" title="MySQL"/>
 </p>
 
-### ⚙️ Tools  
-<p align="center" class="bg-gray-200 p-4 rounded">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" title="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" title="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" title="VS Code"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="48" height="48" title="Postman"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="48" height="48" title="Canva"/>
+### ⚙️ Tools & Platforms
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" title="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" title="VS Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="45" title="Postman"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="45" title="Canva"/>
 </p>
-
 
 ---
 
 ## 🚀 Projects
 
-E-Certificate Generator - A web-based application that automates certificate creation by generating personalized e-certificates from user data, reducing manual effort and ensuring consistency.
--  **[Visit Here](https://ecertificate-generator-frontend.onrender.com/)**
+### 🔹 E-Certificate Generator  
+A web application that automates personalized certificate generation from user data, ensuring consistency and reducing manual effort.  
+🔗 **Live:** https://ecertificate-generator-frontend.onrender.com/
 
-BrainBattle - An interactive quiz-based platform designed to challenge users’ logical thinking and knowledge through engaging questions and real-time score tracking.
--  **[Visit Here](https://brainbattle-nb8x.onrender.com/)**
+### 🔹 BrainBattle  
+An interactive quiz platform that challenges logical thinking with real-time scoring and engaging questions.  
+🔗 **Live:** https://brainbattle-nb8x.onrender.com/
 
-TaskFlow - A productivity-focused task management application that helps users organize, track, and manage tasks efficiently with a clean and user-friendly interface.
--  **[Visit Here](https://task-flow-jj39.onrender.com/)**
+### 🔹 TaskFlow  
+A productivity-focused task management app for organizing, tracking, and managing tasks with a clean UI.  
+🔗 **Live:** https://task-flow-jj39.onrender.com/
 
-Placement Information Hub - A lightweight, offline-friendly placement tracker built with HTML, CSS, and JavaScript. Easily import student data, track placement status, generate summary messages, and export updated results — all stored securely in your browser using localStorage.
--  **[Visit Here](https://placement-information-hub.vercel.app)**
+### 🔹 Placement Information Hub  
+An offline-friendly placement tracker using **HTML, CSS, JavaScript**, and **localStorage** for managing student placement data.  
+🔗 **Live:** https://placement-information-hub.vercel.app
 
-WhatsApp Clone - A UI/UX-focused clone of WhatsApp designed in Figma, showcasing modern chat interface design, user flows, and real-time messaging layout concepts.
--  **[Visit Here](https://www.figma.com/design/WyxQKyAGgNdUL7zFHaxI3Q/WhatsApp-Clone?node-id=0-1&t=hpQi1tsj8n5s4Eys-1)**
+### 🔹 WhatsApp Clone (UI/UX)  
+A Figma-based UI/UX design showcasing chat interfaces, user flows, and modern messaging layouts.  
+🔗 **Design:** https://www.figma.com/design/WyxQKyAGgNdUL7zFHaxI3Q/WhatsApp-Clone
 
-Course Advisor Chatbot (Zoho SalesIQ) – Zoho Cliqtrix ’26 - This project is an interactive Course Advisor Chatbot built using Zoho SalesIQ’s Codeless Bot Builder, integrated with a custom HTML/CSS/JavaScript website and a Zoho Form embedded for collecting student applications. The chatbot acts not only as a course navigation tool but also as a form guidance assistant — helping users understand what to fill in each section before opening the Zoho Form.
--  **[Visit Here](https://courseadvisor.zohosites.com/)**
+### 🔹 Course Advisor Chatbot (Zoho SalesIQ – Cliqtrix ’26)  
+An interactive chatbot built using Zoho SalesIQ Codeless Bot Builder, integrated with a website and Zoho Form to guide students through course selection and form filling.  
+🔗 **Live:** https://courseadvisor.zohosites.com/
 
-Quiz App - Quiz Quest is a fun and interactive web-based quiz app that tests your knowledge of HTML, CSS, and JavaScript. It includes a welcome screen, a multiple-choice quiz interface, and a final score page — all built using pure HTML, CSS, and JavaScript, with no frameworks or backend required.
--  **[Visit Here](https://quizapp-chi-six.vercel.app/)**
-
-## 📊 GitHub Stats  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vishnupriya-TK&show_icons=true&theme=radical)    
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishnupriya-TK&layout=compact&theme=radical)  
-
----
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vishnupriya-TK&theme=react-dark)  
+### 🔹 Quiz Quest  
+A pure **HTML, CSS, and JavaScript** quiz app with a welcome screen, MCQ interface, and final score page.  
+🔗 **Live:** https://quizapp-chi-six.vercel.app/
 
 ---
 
-## 🏆 LeetCode Stats  
+## 📊 GitHub Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/VISHNUPRIYA-TK?theme=dark&ext=heatmap)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vishnupriya-TK&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishnupriya-TK&layout=compact&theme=radical)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vishnupriya-TK&theme=react-dark)
+
+---
+
+## 🏆 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/VISHNUPRIYA-TK?theme=dark&ext=heatmap)
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://leetcode.com/u/VISHNUPRIYA-TK/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white" alt="LeetCode" height="20"/>
-  </a>
-  <a href="https://www.linkedin.com/in/vishnu-priya-t-k-334288308/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" height="20"/>
-  </a>
-  <a href="https://github.com/Vishnupriya-TK" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" height="20"/>
-  </a>
-  <a href="mailto:tkvishnupriyacse@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" height="20"/>
-  </a>
-  <a href="https://www.hackerrank.com/tkvishnupriyacse" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank" height="20"/>
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/tkvishnup78ds/practice/" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=GeeksforGeeks&logoColor=white" alt="HackerRank" height="20"/>
-  </a>
-
+  <a href="https://leetcode.com/u/VISHNUPRIYA-TK/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/vishnu-priya-t-k-334288308/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/Vishnupriya-TK"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
+  <a href="mailto:tkvishnupriyacse@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.hackerrank.com/tkvishnupriyacse"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=HackerRank&logoColor=white"/></a>
+  <a href="https://auth.geeksforgeeks.org/user/tkvishnup78ds/practice/"><img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=flat&logo=GeeksforGeeks&logoColor=white"/></a>
 </p>
 
 ---
 
 ## 🧠 Currently Learning
-
 - Advanced Data Structures and Algorithms
-  
+
 ---
 
 ## ✨ Quote
 
 > _"Design. Build. Deliver."_  
-> *– A developer who crafts solutions with code and creativity.*
----
-> In a world full of bugs, be the one who debugs and delivers
+> _In a world full of bugs, be the one who debugs and delivers._
 
 ---
 
-
-🙏 Thank you for visiting — "Keep your face toward the sunshine, and shadows will fall behind you." 🌟
-
- Have a great day 🚀  
+🙏 **Thank you for visiting!**  
+_"Keep your face toward the sunshine, and shadows will fall behind you."_ 🌟  
+Have a great day 🚀
