@@ -89,8 +89,7 @@ An interactive chatbot built using Zoho SalesIQ Codeless Bot Builder.
 ### 🔹 Quiz Quest  
 A pure **HTML, CSS, and JavaScript** quiz application.  
 
-🔗 **Live:** https://quizapp-chi-six.vercel.app/
-
+**🔗 **Live:** https://quizapp-chi-six.vercel.app/
 ---
 
 ## 📊 GitHub Stats
