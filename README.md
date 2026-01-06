@@ -95,8 +95,8 @@ A pure **HTML, CSS, and JavaScript** quiz application.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vishnupriya-TK&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishnupriya-TK&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vishnupriya-TK&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishnupriya-TK&layout=compact&theme=radical&langs_count=6)
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vishnupriya-TK&theme=react-dark)
 
