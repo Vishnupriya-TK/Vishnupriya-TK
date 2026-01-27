@@ -114,7 +114,7 @@ A pure **HTML, CSS, and JavaScript** quiz application.
   <a href="https://www.linkedin.com/in/vishnu-priya-t-k-334288308/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/Vishnupriya-TK"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
   <a href="mailto:tkvishnupriyacse@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.hackerrank.com/tkvishnupriyacse"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=HackerRank&logoColor=white"/></a>
+  <a href="https://www.hackerrank.com/profile/4179Vishnupriya"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=HackerRank&logoColor=white"/></a>
   <a href="https://auth.geeksforgeeks.org/user/tkvishnup78ds/practice/"><img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=flat&logo=GeeksforGeeks&logoColor=white"/></a>
 </p>
 
