@@ -68,6 +68,13 @@ A productivity-focused task management app for organizing, tracking, and managin
 🔗 **Live:** https://task-flow-jj39.onrender.com/
 ---
 
+### 🔹 VCET Student Performance Tracking System  
+A full-stack academic management platform designed for Velammal College of Engineering and Technology (VCET) to streamline student academic tracking, mentor monitoring, and class performance analytics.
+Built using React + Vite for the frontend and Node.js + Express + MongoDB for the backend. 
+
+🔗 **Live:** https://drive.google.com/file/d/1cZ0_Mq6qB6380akk8LKw0z8hQaYS_vwv/view?usp=drive_link
+---
+
 ### 🔹 Placement Information Hub  
 An offline-friendly placement tracker using HTML, CSS, JavaScript**, and localStorage.  
 
