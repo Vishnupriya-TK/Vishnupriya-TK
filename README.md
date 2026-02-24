@@ -1,5 +1,4 @@
 
-```markdown
 <h1 align="center">👋 Hi, I'm Vishnu Priya T K</h1>
 
 <p align="center">
@@ -165,6 +164,6 @@ Productivity-focused application for organizing and managing tasks efficiently.
 <p align="center">
   ⭐ Thank you for visiting my profile!
 </p>
-```
+
 
 
