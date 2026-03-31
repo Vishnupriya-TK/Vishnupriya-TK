@@ -97,15 +97,59 @@
 
 ---
 
-## 📊 GitHub Analytics
+# 📊 COMPLETE DEVELOPER OVERVIEW
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vishnupriya-TK&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishnupriya-TK&layout=compact&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Vishnupriya-TK&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishnupriya-TK&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishnupriya-TK&theme=react-dark"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishnupriya-TK&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vishnupriya-TK&theme=tokyonight" />
+</p>
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishnupriya-TK&theme=react-dark&hide_border=true"/>
+</p>
+
+---
+
+## 🏆 Coding Profiles (Live)
+
+### 🧠 LeetCode Stats
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/VISHNUPRIYA-TK?theme=dark&ext=heatmap,contest" />
+</p>
+
+---
+
+### 🟢 HackerRank
+<p align="center">
+  <a href="https://www.hackerrank.com/profile/4179Vishnupriya">
+    <img src="https://img.shields.io/badge/HackerRank-View Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 🧠 Developer Insights
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vishnupriya-TK&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vishnupriya-TK&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vishnupriya-TK&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Vishnupriya-TK&theme=tokyonight&utcOffset=5.5"/>
 </p>
 
 ---
