@@ -11,34 +11,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&color=F75C7E&center=true&vCenter=true&width=600&lines=Aspiring+Full+Stack+Developer;MERN+Stack+Learner;Java+Enthusiast;UI%2FUX+Designer" />
 </p>
----
-<h3 align="center">🚀 Pre-Final Year CSE Student</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Aspiring+Full+Stack+Developer;MERN+Stack+Explorer;Java+Enthusiast;UI%2FUX+Designer" />
-</p>
-----
-<h3 align="center">🚀 Pre-Final Year CSE Student</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=2500&color=FF6EC7&center=true&vCenter=true&width=700&lines=Aspiring+Full+Stack+Developer;MERN+Stack+Specialist;Java+Enthusiast;Creative+UI%2FUX+Designer" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Code-Clean-success?style=flat-square" />
-  <img src="https://img.shields.io/badge/Design-Creative-blueviolet?style=flat-square" />
-  <img src="https://img.shields.io/badge/Learning-DSA-orange?style=flat-square" />
-</p>
-----
-<h3 align="center">🚀 Pre-Final Year CSE Student</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Full%20Stack-Developer-ff69b4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MERN-Stack-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Java-Enthusiast-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/UI%2FUX-Designer-purple?style=for-the-badge" />
-</p>
----
 
 <p align="center">
   <a href="https://portfolio-roan-alpha-13.vercel.app/">
