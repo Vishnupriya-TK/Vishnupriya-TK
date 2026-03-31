@@ -116,7 +116,10 @@
 
 # 📊 COMPLETE DEVELOPER OVERVIEW
 
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vishnupriya-TK&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishnupriya-TK&theme=tokyonight&hide_border=true" height="170"/>
+</p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vishnupriya-TK&theme=tokyonight" />
