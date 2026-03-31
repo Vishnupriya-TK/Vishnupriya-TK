@@ -1,16 +1,11 @@
 <h1 align="center">✨ Hey there, I'm Vishnu Priya T K 👋</h1>
 
-<h3 align="center">
-  🚀 Pre-Final Year CSE Student 
-  <br/>
-  💻 Aspiring Full-Stack Developer | MERN Stack 
-  <br/>
-  ☕ Java Enthusiast | 🎨 UI/UX Designer
-</h3>
+<h3 align="center">🚀 Pre-Final Year CSE Student</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&color=F75C7E&center=true&vCenter=true&width=600&lines=Aspiring+Full+Stack+Developer;MERN+Stack+Learner;Java+Enthusiast;UI%2FUX+Designer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Aspiring+Full+Stack+Developer;MERN+Stack+Explorer;Java+Enthusiast;UI%2FUX+Designer" />
 </p>
+
 
 <p align="center">
   <a href="https://portfolio-roan-alpha-13.vercel.app/">
@@ -23,9 +18,13 @@
 ## 🌈 About Me
 
 💡 Passionate about building beautiful & functional web applications
+
 🎨 Love blending intuitive UI/UX design with clean, efficient code
+
 🎓 Pre-final Year CSE Student @ VCET
+
 ⚡ Strong in Frontend Development, currently advancing in Backend technologies & mastering DSA
+
 ---
 
 ## ⚡ Tech Stack
