@@ -6,7 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Aspiring+Full+Stack+Developer;MERN+Stack+Explorer;Java+Enthusiast;UI%2FUX+Designer" />
 </p>
 
-
 <p align="center">
   <a href="https://portfolio-roan-alpha-13.vercel.app/">
     <img src="https://img.shields.io/badge/🌐 Portfolio-Visit Now-ff69b4?style=for-the-badge"/>
@@ -17,13 +16,10 @@
 
 ## 🌈 About Me
 
-💡 Passionate about building beautiful & functional web applications
-
-🎨 Love blending intuitive UI/UX design with clean, efficient code
-
-🎓 Pre-final Year CSE Student @ VCET
-
-⚡ Strong in Frontend Development, currently advancing in Backend technologies & mastering DSA
+💡 Passionate about building **beautiful & functional web applications**  
+🎨 Love blending **intuitive UI/UX design with clean, efficient code**  
+🎓 Pre-final Year **CSE Student @ VCET**  
+⚡ Strong in **Frontend Development**, advancing in **Backend & DSA**
 
 ---
 
@@ -70,6 +66,12 @@
 
 ---
 
+### 🌐 Personal Portfolio Website
+💼 Showcases my skills, projects, and experience  
+🔗 https://portfolio-roan-alpha-13.vercel.app/
+
+---
+
 ### 🌍 TravelTales
 📸 Share travel stories, like & interact  
 🔗 https://traveltales-mgk9.onrender.com/
@@ -82,8 +84,9 @@
 
 ---
 
-### 🎓 Student Performance Tracking System
-📊 Academic analytics platform for VCET  
+### 🎓 VCET Student Performance Tracking System
+📊 Academic analytics platform  
+🔗 https://drive.google.com/file/d/1cZ0_Mq6qB6380akk8LKw0z8hQaYS_vwv/view?usp=drive_link
 
 ---
 
@@ -99,9 +102,15 @@
 
 ---
 
-### 🧪 Mini Projects
-- 🧩 Quiz Quest (JS App)
-- 💬 WhatsApp UI Clone (Figma)
+### 🎨 WhatsApp UI Clone
+📱 UI/UX design in Figma  
+🔗 https://www.figma.com/design/WyxQKyAGgNdUL7zFHaxI3Q/WhatsApp-Clone
+
+---
+
+### 🧩 Quiz Quest
+🧠 JavaScript-based quiz app  
+🔗 https://quizapp-chi-six.vercel.app/
 
 ---
 
@@ -162,33 +171,26 @@
 
 ---
 
-## 🏆 Coding Profiles
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://leetcode.com/u/VISHNUPRIYA-TK/">
     <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
+  </a>
+  <a href="https://www.linkedin.com/in/vishnu-priya-t-k-334288308/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://github.com/Vishnupriya-TK">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="mailto:tkvishnupriyacse@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
   </a>
   <a href="https://www.hackerrank.com/profile/4179Vishnupriya">
     <img src="https://img.shields.io/badge/HackerRank-green?style=for-the-badge&logo=hackerrank"/>
   </a>
   <a href="https://auth.geeksforgeeks.org/user/tkvishnup78ds/practice/">
     <img src="https://img.shields.io/badge/GeeksforGeeks-darkgreen?style=for-the-badge&logo=geeksforgeeks"/>
-  </a>
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/vishnu-priya-t-k-334288308/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="mailto:tkvishnupriyacse@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
-  </a>
-  <a href="https://github.com/Vishnupriya-TK">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
   </a>
 </p>
 
