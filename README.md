@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://portfolio-roan-alpha-13.vercel.app/">
+  <a href="https://vishnu-priya-tk.vercel.app/">
     <img src="https://img.shields.io/badge/🌐 Portfolio-Visit Now-ff69b4?style=for-the-badge"/>
   </a>
 </p>
@@ -68,7 +68,7 @@
 
 ### 🌐 Personal Portfolio Website
 💼 Showcases my skills, projects, and experience  
-🔗 https://portfolio-roan-alpha-13.vercel.app/
+🔗 https://vishnu-priya-tk.vercel.app/
 
 ---
 
